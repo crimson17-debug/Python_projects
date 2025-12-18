@@ -8,9 +8,9 @@ The repository is organized into learning modules and project implementations:
 
 ```text
 ├──  opencv/
-│   ├── python_oops/         # Object-Oriented Programming concepts in Python
-│   ├── Vedio_recording_using_cameras.py        # Script for accessing and handling camera feeds
-│   ├── fusion_system.py     # Data fusion logic (likely multi-camera or sensor integration)
+│   ├── python_oops/                                 # Object-Oriented Programming concepts in Python
+│   ├── Vedio_recording_using_cameras.py             # Script for accessing and handling camera feeds
+│   ├── fusion_system.py                             # Data fusion logic (likely multi-camera or sensor integration)
 │   ├── Lane_detection_using_Standby_vedio.py             
 │   └── ...
 ├──  1_readimg_photos/       # Resources (Images/Videos) for testing
