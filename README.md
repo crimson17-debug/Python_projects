@@ -7,13 +7,13 @@ Welcome to my Computer Vision repository! This project documents my journey and 
 The repository is organized into learning modules and project implementations:
 
 ```text
-├──  1_readimg_photos/        # Resources (Images/Videos) for testing
 ├──  opencv/
 │   ├── python_oops/         # Object-Oriented Programming concepts in Python
-│   ├── cameracode.py        # Script for accessing and handling camera feeds
+│   ├── Vedio_recording_using_cameras.py        # Script for accessing and handling camera feeds
 │   ├── fusion_system.py     # Data fusion logic (likely multi-camera or sensor integration)
-│   ├── first.py             
+│   ├── Lane_detection_using_Standby_vedio.py             
 │   └── ...
+├──  1_readimg_photos/       # Resources (Images/Videos) for testing
 ├── 1_read.py                # Basics: Reading images and video streams
 ├── 2_reshape.py             # Basics: Resizing and rescaling frames
 ├── 3_draw.py                # Basics: Drawing shapes and putting text on images
